@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -14,7 +12,7 @@
         <link rel="stylesheet" href="./Trello Board_files/all.min.css">
     </head>
     <body>
-    <h1>Rayl</h1>
+
         <nav class="navbar">
             <ul class="menu">
                 <li class="pointer">
